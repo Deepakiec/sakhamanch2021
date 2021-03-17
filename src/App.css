@@ -1,8 +1,5 @@
 
-.app__body{
-    background-color:#dce4ea;
-    height:100vh;
-}
+
 .app__body
 {display:flex;
 }

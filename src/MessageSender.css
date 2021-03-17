@@ -33,7 +33,12 @@
 
 .messageSender__top > form > button
 {
-  display:none;
+    border-radius: 14px;
+    background-color: rgb(73 203 210);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid #4190af;
 }
 
 .messageSender_input
